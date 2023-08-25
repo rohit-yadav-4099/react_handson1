@@ -1,1 +1,11 @@
 
+body{
+  background-color: #bdaafc;
+}
+.App {
+    text-align: center;
+    display: flex;
+    margin-top: 300px;
+    justify-content: space-around;
+  }
+  
