@@ -9,7 +9,8 @@ function App() {
     <div className="App">
     
     <Buttonone></Buttonone>
-    <Buttontwo></Buttontwo>
+    <Buttontwo></Buttontwo> 
+    <h1 className='mainheading'>Styling using Functinal and Class Component</h1>
     </div>
   );
 }
